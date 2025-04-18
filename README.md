@@ -29,6 +29,7 @@ A modern, responsive, and fast **QR Code Generator** built using **HTML**, **CSS
 ---
 
 📚 How It Works
+
 🧾 User Input – Enter any text, URL, or keyword
 
 🧠 Smart Formatting – Auto-detects links or formats into a Google Search
