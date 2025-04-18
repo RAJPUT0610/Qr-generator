@@ -47,3 +47,21 @@ A modern, responsive, and fast **QR Code Generator** built using **HTML**, **CSS
 ```bash
 git clone https://github.com/RAJPUT0610/Qr-generator.git
 cd Qr-generator
+
+
+2. 🌐 Open the App
+Since this is a fully static web app, you don't need to install anything. Just open the index.html file directly in your browser.
+
+For Windows:
+bash
+Copy
+Edit
+start index.html
+For macOS:
+bash
+Copy
+Edit
+open index.html
+Or simply double-click index.html in your file explorer.
+
+⚡ The app runs offline – no backend or internet connection needed after first load!
